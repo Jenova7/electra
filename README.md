@@ -3,18 +3,7 @@
 <p align="center">
     <img src="https://media.discordapp.net/attachments/516295832904138762/542275592704491521/bitcoin.png"
         height="130">
-</p>
-<p align="center">
- <a href="https://www.reddit.com/r/Electra_Currency/">
-        <img src="https://img.shields.io/badge/join%20us%20on-reddit-orange.svg"
-            alt="join us on Reddit"></a>
-    <a href="https://discordapp.com/invite/B8F7Jdv">
-        <img src="https://img.shields.io/discord/308323056592486420.svg"
-            alt="chat on Discord"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=ElectracoinECA">
-        <img src="https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow"
-            alt="follow on Twitter"></a>
-</p>
+
 
 # What is Electra?
 Electra is a blockchain using the highly-secure and power efficient NIST5 algorithm. Combining temporary Proof-of-Work with high Proof-of-Stake, the Electra coin (ECA) is unique in its distribution. On June 16, 2017, Electra entered "Super Rewards Bonanza" stage for 24 hours (Blocks 11522-11810). During this time, 95% of the proof-of-work coins were mined. At block 11811, Electra swapped to Proof-of-Stake with an annual interest rate of 50% until block 112200. This created a gold-rush period, promoting the network (or was hoped to) and rapidly increasing the amount of ECA. The 30bil ECA is a soft limit, and will be controlled by the POS Block rewards.
