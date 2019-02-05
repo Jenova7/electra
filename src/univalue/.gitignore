@@ -14,7 +14,7 @@ build-aux/depcomp
 build-aux/install-sh
 build-aux/missing
 stamp-h1
-build-aux/univalue-config.h*
+univalue-config.h*
 build-aux/test-driver
 libtool
 build-aux/ltmain.sh
