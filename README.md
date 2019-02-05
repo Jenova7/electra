@@ -38,6 +38,7 @@ Electra is a blockchain using the highly-secure and power efficient NIST5 algori
 <tr> <td>Premine</td><td>3.34%</td></tr>
 </table>
 * The POS is by definition infinite, but our decreasing rewards allow us to approach this target without ever reaching it
+
 ## Work in progress
 <table>
 <tr> <td>SEGWIT</td></tr>
